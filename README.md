@@ -9,7 +9,7 @@ The public load balancer has a target group consists of the 2 public EC2 instanc
 The private load balancer has a target group consists of the 2 private EC2 instances with Apache installed on them
 
 ## Infrastructure Diagram
-![Infrastructure Diagram](https://github.com/AhmedElSheriff/AWS-Infrastructure-Terraform/infrastructure.jpeg)
+![Infrastructure Diagram](https://raw.githubusercontent.com/AhmedElSheriff/AWS-Infrastructure-Terraform/master/infrastructure.jpeg)
 
 ## Modules
 The terraform files are split into 5 modules other than the root files
